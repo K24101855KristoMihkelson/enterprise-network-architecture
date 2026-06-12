@@ -131,4 +131,7 @@ exit
 
 #### Sending ICMP ping requests between the Office PC (192.168.20.X) and the Warehouse Server (192.168.10.X), confirming successful Inter-VLAN routing functionality.
 
-<img width="1263" height="871" alt="image" src="https://github.com/user-attachments/assets/e2df398f-edfc-4813-8208-2d8782637739" />
+<img width="1263" height="771" alt="image" src="https://github.com/user-attachments/assets/e2df398f-edfc-4813-8208-2d8782637739" />
+<img width="910" height="760" alt="image" src="https://github.com/user-attachments/assets/adc6b278-0646-4574-bf1d-57eb61a0fe9f" />
+<img width="910" height="760" alt="image" src="https://github.com/user-attachments/assets/f98c65da-bbd5-4250-8357-acea046ac95d" />
+
